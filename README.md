@@ -1,5 +1,5 @@
 # udemy-course-create-responsive-layout-in-30-mins-instructor-nitsh-kuman
-udemy-course-create-responsive-layout-in-30-mins-instructor-nitsh-kuman
+
 
 
 The final project for this course, Learn to Create Responsive Layouts in 30 Minutes with the instructor, Nitish Kumar,  is a one-page responsive website. In taking this course, I was introduced to the role of media queries in responsive web design.
